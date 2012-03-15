@@ -2,6 +2,7 @@
 # filename: 10.py
 
 # find all the primes
+# just for the test of git
 import math
 
 def isPrime(n):
