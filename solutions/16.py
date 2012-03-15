@@ -3,6 +3,12 @@
 
 # python is really powerful
 
+# there is also one line method
+'''
+reduce(lambda x, y: x + y, [int(i) for i in str(2**1000)])
+sum(int(digit) for digit in str(2**1000))
+'''
+
 def main():
   summ = 0
   text = str(2**1000)
